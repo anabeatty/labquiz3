@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "arnaldo": "ana-quiz3",
+    "default": "ana-quiz3"
+  },
+  "targets": {},
+  "etags": {},
+  "dataconnectEmulatorConfig": {}
+}
